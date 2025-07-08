@@ -1,0 +1,40 @@
+.banner{
+    margin-left: 150px;
+    width: 1200px;
+    height: 550px;
+}
+    .try{
+        text-align: center;
+        margin-left: 1500px;
+        display: inline;
+    }
+    .container{
+        display: flex;
+    }
+    .off{
+        margin-left: 550px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .year{
+
+        margin-left: 255px;
+    }
+.off{
+    color: red;
+}
+.off,h2{
+    color: black;
+
+}
+.vector{
+    width: 1000px;
+    height: 500px;
+    margin-left: 235px;
+}
+.fans{
+    text-align: center;
+    
+    justify-content: center;
+}
