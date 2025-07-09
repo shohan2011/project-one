@@ -5,14 +5,7 @@ nav{
     justify-content: space-between;
     margin: 50px 150px;
 }
-.open-sans-<uniquifier> {
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
 
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
 span{
     color: #FD6E0A;
 }
